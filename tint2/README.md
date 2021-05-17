@@ -1,7 +1,8 @@
 # Tint2
 
  
-*from man pages:*
+**_From man pages:_**
+
 Tint2 is a simple panel/taskbar made for modern X window managers. 
 It was specifically made for Openbox but it should also work with other window managers (GNOME, KDE, XFCE etc.).
 
@@ -14,8 +15,8 @@ It was adopted from the tint2 docs.
 
 
 # Setup
-tint2rc-cbpp points to my old CBPP setup - [Crunch Bang Plus Plus](https://www.crunchbangplusplus.org/oldindex.html).
+`tint2rc-cbpp` is my old [CBPP - Crunch Bang Plus Plus](https://www.crunchbangplusplus.org/oldindex.html) setup.
 
-tint2rc-indigo points to very nice [Indigo theme](https://www.opendesktop.org/p/1238897/) from by Phob1an.
+`tint2rc-indigo` is a very nice [Indigo theme](https://www.opendesktop.org/p/1238897/) by Phob1an.
 
-tint2rc point to my actual setup.
+`tint2rc` is _~~probably~~_ my actual setup.
