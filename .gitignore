@@ -1,4 +1,12 @@
 # Ignore all
 *
 
+# But not this
 !LICENSE
+!README.md
+!.gitignore
+
+!tint2/
+!tint2/*
+tint2/*.backup*
+
