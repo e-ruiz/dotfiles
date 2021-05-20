@@ -1,12 +1,18 @@
-# Ignore all
+# Ignore all,
 *
 
-# But not this
+# but not this,
 !LICENSE
 !README.md
 !.gitignore
 
+# and this,
 !tint2/
 !tint2/*
 tint2/*.backup*
 
+# and so on..
+!openbox/
+!openbox/*
+openbox/*~
+openbox/*.swp
