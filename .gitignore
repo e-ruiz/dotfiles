@@ -1,0 +1,20 @@
+# Ignore all,
+*
+
+# but not this,
+!LICENSE
+!README.md
+!.gitignore
+
+# and this,
+!tint2/
+!tint2/*
+!tint2/launchers/
+!tint2/launchers/*
+tint2/*.backup*
+
+# and so on..
+!openbox/
+!openbox/*
+openbox/*~
+openbox/*.swp
